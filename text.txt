@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 First line
+=======
+Another first line
+>>>>>>> another_branch
